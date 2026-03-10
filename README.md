@@ -1,9 +1,9 @@
 # LeetCode Practice
 
-Total solved: 0
+Total solved: 21
 
 ## Arrays
--
+17
 
 ## Strings
 -
